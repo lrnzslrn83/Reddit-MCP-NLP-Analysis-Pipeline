@@ -1,0 +1,13 @@
+Librerie Python richieste
+
+Il progetto utilizza le seguenti librerie Python:
+
+- `praw` – accesso alle API di Reddit  
+- `fastmcp` – implementazione dei server MCP e dei tool  
+- `transformers` – modelli NLP per sentiment analysis  
+- `pandas` – gestione e trasformazione dei dati tabellari  
+- `matplotlib` – generazione dei grafici  
+- `seaborn` – supporto per visualizzazioni statistiche  
+- `nltk` – preprocessing del testo  
+- `langdetect` – rilevamento automatico della lingua  
+- `wordcloud` – generazione di wordcloud  
